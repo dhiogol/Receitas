@@ -1,0 +1,32 @@
+body, html{
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    background-color: #b9d100;
+    text-align: center;
+    padding: 1px;
+}
+
+footer{
+    background-color: #b9d100;
+    text-align: center;
+    padding: 1px;
+
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+
+}
+
+h3{
+    font-size: 30px;
+}
